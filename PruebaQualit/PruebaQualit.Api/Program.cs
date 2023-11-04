@@ -1,8 +1,22 @@
+using Microsoft.EntityFrameworkCore;
+using PruebaQualit.Core.Interfaces;
+using PruebaQualit.Infrastructure.Data;
+using PruebaQualit.Infrastructure.Repositories;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
 builder.Services.AddControllers();
+
+builder.Services.AddDbContext<PruebaQualitContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("PruebaQualit"))
+);
+
+builder.Services.AddTransient<IProductRepository, ProductRepository>();
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
