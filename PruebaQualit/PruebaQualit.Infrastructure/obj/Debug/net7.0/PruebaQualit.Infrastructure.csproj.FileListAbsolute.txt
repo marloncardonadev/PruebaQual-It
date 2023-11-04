@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Infrastructure\bin\Debug\net7.0\PruebaQualit.Infrastructure.deps.json
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Infrastructure\bin\Debug\net7.0\PruebaQualit.Infrastructure.dll
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Infrastructure\bin\Debug\net7.0\PruebaQualit.Infrastructure.pdb
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Infrastructure\bin\Debug\net7.0\PruebaQualit.Core.dll
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Infrastructure\bin\Debug\net7.0\PruebaQualit.Core.pdb
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Infrastructure\obj\Debug\net7.0\PruebaQualit.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Infrastructure\obj\Debug\net7.0\PruebaQualit.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Infrastructure\obj\Debug\net7.0\PruebaQualit.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Infrastructure\obj\Debug\net7.0\PruebaQualit.Infrastructure.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Infrastructure\obj\Debug\net7.0\PruebaQualit.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Infrastructure\obj\Debug\net7.0\PruebaQualit.Infrastructure.csproj.CopyComplete
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Infrastructure\obj\Debug\net7.0\PruebaQualit.Infrastructure.dll
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Infrastructure\obj\Debug\net7.0\refint\PruebaQualit.Infrastructure.dll
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Infrastructure\obj\Debug\net7.0\PruebaQualit.Infrastructure.pdb
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Infrastructure\obj\Debug\net7.0\ref\PruebaQualit.Infrastructure.dll

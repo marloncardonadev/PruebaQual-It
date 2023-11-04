@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Core\bin\Debug\net7.0\PruebaQualit.Core.deps.json
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Core\bin\Debug\net7.0\PruebaQualit.Core.dll
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Core\bin\Debug\net7.0\PruebaQualit.Core.pdb
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Core\obj\Debug\net7.0\PruebaQualit.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Core\obj\Debug\net7.0\PruebaQualit.Core.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Core\obj\Debug\net7.0\PruebaQualit.Core.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Core\obj\Debug\net7.0\PruebaQualit.Core.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Core\obj\Debug\net7.0\PruebaQualit.Core.dll
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Core\obj\Debug\net7.0\refint\PruebaQualit.Core.dll
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Core\obj\Debug\net7.0\PruebaQualit.Core.pdb
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Core\obj\Debug\net7.0\ref\PruebaQualit.Core.dll
