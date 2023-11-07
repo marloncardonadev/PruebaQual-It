@@ -9,5 +9,3 @@ C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Core\obj\Releas
 C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Core\obj\Release\net7.0\refint\PruebaQualit.Core.dll
 C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Core\obj\Release\net7.0\PruebaQualit.Core.pdb
 C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Core\obj\Release\net7.0\ref\PruebaQualit.Core.dll
-C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Core\bin\Release\net7.0\PruebaQualit.Core.runtimeconfig.json
-C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Core\obj\Release\net7.0\PruebaQualit.Core.genruntimeconfig.cache

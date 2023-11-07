@@ -9,8 +9,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaQualit.Core", "Prueba
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaQualit.Infrastructure", "PruebaQualit.Infrastructure\PruebaQualit.Infrastructure.csproj", "{3586A92A-7A57-495F-9A81-8720799D6331}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaPruebaQualit", "LambdaPruebaQualit\LambdaPruebaQualit.csproj", "{98B5CBA1-35FD-4C47-88A8-592D99441CDA}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{3586A92A-7A57-495F-9A81-8720799D6331}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3586A92A-7A57-495F-9A81-8720799D6331}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3586A92A-7A57-495F-9A81-8720799D6331}.Release|Any CPU.Build.0 = Release|Any CPU
-		{98B5CBA1-35FD-4C47-88A8-592D99441CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{98B5CBA1-35FD-4C47-88A8-592D99441CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{98B5CBA1-35FD-4C47-88A8-592D99441CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{98B5CBA1-35FD-4C47-88A8-592D99441CDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
