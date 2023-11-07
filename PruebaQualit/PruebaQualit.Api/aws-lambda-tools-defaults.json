@@ -1,0 +1,21 @@
+
+{
+    "region" : "us-east-2",
+    "profile" : "Marlon",
+    "configuration" : "Release",
+    "framework"     : "net7.0",
+    "function-name" : "PruebaQualit",
+    "function-description" : "",
+    "package-type"         : "Zip",
+    "function-handler"     : "PruebaQualit",
+    "function-memory-size" : 512,
+    "function-role"        : "arn:aws:iam::576036501201:role/service-role/PruebaQualit-role-mt2uoe88",
+    "function-timeout"     : 15,
+    "function-runtime"     : "provided",
+    "function-architecture" : "x86_64",
+    "function-subnets"      : "",
+    "function-security-groups" : "",
+    "tracing-mode"             : "PassThrough",
+    "environment-variables"    : "",
+    "image-tag"                : ""
+}

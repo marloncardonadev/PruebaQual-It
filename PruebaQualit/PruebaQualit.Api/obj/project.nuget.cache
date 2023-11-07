@@ -1,9 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "z9COSaM2ixzrK6lNxOsFdVv6wzAUKgpRQq9jyIXP6rhfBHT9WSOUmHfGgJYygiMvnhm5E22wzZtverUjq0FNIQ==",
+  "dgSpecHash": "WAPo/3vgVQThM8K0inq6UhQ09wc+CMLQFarj68eiEKin14qbKNQOQGHdsk8479uyES3YHAz0HZ+Cx74dSqzdxA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Usuario\\Desktop\\PruebaQual-It\\PruebaQualit\\PruebaQualit.Api\\PruebaQualit.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.6.0\\amazon.lambda.apigatewayevents.2.6.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\amazon.lambda.applicationloadbalancerevents\\2.1.0\\amazon.lambda.applicationloadbalancerevents.2.1.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\amazon.lambda.aspnetcoreserver\\8.1.0\\amazon.lambda.aspnetcoreserver.8.1.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\amazon.lambda.aspnetcoreserver.hosting\\1.6.0\\amazon.lambda.aspnetcoreserver.hosting.1.6.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\amazon.lambda.logging.aspnetcore\\3.1.0\\amazon.lambda.logging.aspnetcore.3.1.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\amazon.lambda.runtimesupport\\1.8.6\\amazon.lambda.runtimesupport.1.8.6.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.1\\amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

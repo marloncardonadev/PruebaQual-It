@@ -80,3 +80,12 @@ C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Api\bin\Debug\n
 C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Api\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Api\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Api\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Api\bin\Debug\net7.0\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Api\bin\Debug\net7.0\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Api\bin\Debug\net7.0\Amazon.Lambda.AspNetCoreServer.dll
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Api\bin\Debug\net7.0\Amazon.Lambda.AspNetCoreServer.Hosting.dll
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Api\bin\Debug\net7.0\Amazon.Lambda.Core.dll
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Api\bin\Debug\net7.0\Amazon.Lambda.Logging.AspNetCore.dll
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Api\bin\Debug\net7.0\Amazon.Lambda.RuntimeSupport.dll
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Api\bin\Debug\net7.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\Usuario\Desktop\PruebaQual-It\PruebaQualit\PruebaQualit.Api\bin\Debug\net7.0\aws-lambda-tools-defaults.json

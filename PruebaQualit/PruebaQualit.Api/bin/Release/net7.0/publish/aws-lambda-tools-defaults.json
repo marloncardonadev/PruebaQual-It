@@ -1,0 +1,21 @@
+
+{
+    "region" : "us-east-2",
+    "profile" : "Marlon",
+    "configuration" : "Release",
+    "framework"     : "net7.0",
+    "function-name" : "LambdaAPITestQualIt",
+    "function-description" : "",
+    "package-type"         : "Zip",
+    "function-handler"     : "LambdaTest::LambdaTest.LambdaHandler::handleRequest",
+    "function-memory-size" : 512,
+    "function-role"        : "arn:aws:iam::576036501201:role/service-role/LambdaAPITestQualIt-role-hcjvuafh",
+    "function-timeout"     : 15,
+    "function-runtime"     : "provided",
+    "function-architecture" : "x86_64",
+    "function-subnets"      : "",
+    "function-security-groups" : "",
+    "tracing-mode"             : "PassThrough",
+    "environment-variables"    : "",
+    "image-tag"                : ""
+}

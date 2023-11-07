@@ -25,9 +25,8 @@ namespace PruebaQualit.Api.Controllers
         {
             var products = await _productRepository.GetProducts();
             var productsDto = _mapper.Map<IEnumerable<ProductDto>>(products);
-            var response = new ApiResponse<IEnumerable<ProductDto>>(productsDto);
 
-            return Ok(response);
+            return Ok(productsDto);
         }
 
         [HttpGet("{id}")]
@@ -35,9 +34,8 @@ namespace PruebaQualit.Api.Controllers
         {
             var product = await _productRepository.GetProduct(id);
             var productDto = _mapper.Map<ProductDto>(product);
-            var response = new ApiResponse<ProductDto>(productDto);
 
-            return Ok(response);
+            return Ok(productDto);
         }
 
         [HttpPost]
@@ -46,9 +44,8 @@ namespace PruebaQualit.Api.Controllers
             var product = _mapper.Map<Product>(productDto);
             await _productRepository.InsertProduct(product);
             productDto = _mapper.Map<ProductDto>(product);
-            var response = new ApiResponse<ProductDto>(productDto);
 
-            return Ok(response);
+            return Ok(productDto);
         }
 
         [HttpPut]
@@ -57,17 +54,15 @@ namespace PruebaQualit.Api.Controllers
             var product = _mapper.Map<Product>(productDto);
             product.Id = id;
             var result = await _productRepository.UpdateProduct(product);
-            var response = new ApiResponse<bool>(result);
-            return Ok(response);
+            return Ok(result);
         }
 
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteProduct(int id)
         {
             var result = await _productRepository.DeleteProduct(id);
-            var response = new ApiResponse<bool>(result);
 
-            return Ok(response);
+            return Ok(result);
         }
     }
 }
