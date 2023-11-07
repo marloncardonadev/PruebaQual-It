@@ -1,6 +1,5 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
-using PruebaQualit.Api.Response;
 using PruebaQualit.Core.DTOs;
 using PruebaQualit.Core.Entities;
 using PruebaQualit.Core.Interfaces;
